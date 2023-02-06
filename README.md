@@ -1,5 +1,5 @@
 # simple-java-app
-Java applikation som bruges til øvelse 2. https://techkea.github.io/f23/linux.html#2-k%C3%B8r-et-javaprogram-p%C3%A5-din-linux-computer
+Java applikation som bruges til:
 
 Øvelse 1: 
 
